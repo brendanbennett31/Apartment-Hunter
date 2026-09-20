@@ -18,11 +18,17 @@ the Routine re-reads it on every run.
   if it doesn't line up exactly with Oct 4–30.
 
 ## Budget
-- Up to **$4,000/month** for stays of ~a month or longer.
-- Up to roughly **$1,000/week** for short (1–2 week) stays — so ~$2,000 for two weeks.
-- Some flexibility is possible if a listing is otherwise a strong fit. Don't silently
-  drop a borderline listing over price — flag it as borderline instead of excluding it
-  outright, and say why.
+The real constraint is **total spend under $4,000 for the actual stay**, not a fixed
+per-week or per-month rate in isolation:
+- For a stay of roughly a month or longer, that works out to about **$4,000/month**.
+- For a listing priced by the week, compute the total for a realistic 1–2 week stay at
+  that rate. If a shorter stay at that listing keeps the total under $4,000, it's in
+  scope — even if the weekly rate alone looks high. Example: $2,200/week is too much
+  for a month, but one week ($2,200) or even two weeks ($4,400, right at the edge) can
+  still be worth surfacing.
+- Don't silently drop a listing just because its headline rate looks high — check
+  whether a shorter stay brings the total under $4,000 before excluding it on price.
+  Flag anything close to the line as borderline rather than dropping it outright.
 
 ## Red flags — gender-restrictive listings
 Watch for listings that:

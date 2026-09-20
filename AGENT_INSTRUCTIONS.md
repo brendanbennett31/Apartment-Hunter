@@ -36,8 +36,10 @@ fresh session with no memory of prior runs, so do every step below in full each 
      long-term commitment.
    - Confirm the availability window overlaps Oct 2026–Jan 2027 (ideally Oct 4–30, 2026,
      but any short window in that range is worth surfacing).
-   - Check price against the budget rules in `CRITERIA.md`. Flag as borderline rather
-     than excluding if it's close but not a clean fit.
+   - Check price against the budget rules in `CRITERIA.md`. Total-stay cost is what
+     matters, not the headline rate alone — a high weekly rate can still fit if a
+     shorter stay keeps the total under $4,000. Flag as borderline rather than
+     excluding if it's close but not a clean fit.
    - Check the listing text for gender-restrictive language. If present, exclude from
      the main matches and log it as `excluded_gender` — mention it in a short separate
      line in the email, don't just drop it silently.
@@ -49,7 +51,18 @@ fresh session with no memory of prior runs, so do every step below in full each 
      short line listing which sources were checked (and which failed, if any). Do not
      pad this with a "here's something close" listing — that defeats the point.
    - **Matches found:** for each, give title, neighborhood, availability dates, price,
-     term length, the link, and one line on why it fits.
+     term length, **the direct link**, and one line on why it fits. Every listing in
+     the report needs a clickable link — a listing you can't attach a confident link to
+     doesn't go in as a plain match (see the confidence note below).
+   - **Link confidence.** WebFetch is blocked in this environment, so listing pages
+     can't be opened directly to verify a URL actually belongs to the description
+     found via search. Before attaching a link, cross-check it with at least one
+     differently-worded search query to see if the same URL keeps coming back with
+     consistent details (price, dates, size, neighborhood). If it's consistent across
+     multiple queries, include it with a one-line "moderate confidence, worth
+     double-checking yourself" note. If you only have one weak source for the link, or
+     the URL's own title contradicts the description, say so explicitly rather than
+     presenting the link as solid — don't let a listing look more verified than it is.
    - If there were borderline or gender-excluded listings, add a brief separate section
      for those — clearly labeled as not recommendations, just visibility into what the
      filter is doing.
