@@ -10,5 +10,35 @@
     "date_seen": "2026-09-20",
     "status": "matched",
     "note": "Stuyvesant Town/Gramercy 1BR, 775 sq ft, $2,200/week, Aug 30-Oct 31 2026. Fits total-cost budget for a 1-2 week stay. Reported to user by email 2026-09-20. Link confidence: moderate (consistent across 3 searches, not page-verified - WebFetch blocked in this environment)."
+  },
+  {
+    "url": "https://www.listingsproject.com/listings/east-village-apartment-8b6d6cb9-0ad6-48d0-9411-c3f5a8d11478",
+    "date_seen": "2026-09-21",
+    "status": "excluded_other",
+    "note": "$1,400/week East Village 1BR, but dates are Jul 20-Aug 4 2026, outside the Oct 2026-Jan 2027 window."
+  },
+  {
+    "url": "https://www.listingsproject.com/listings/comfy-apartment-in-central-manhattan-5aa2e203-c738-422a-bade-15beba28eb87",
+    "date_seen": "2026-09-21",
+    "status": "excluded_other",
+    "note": "$1,400/week Murray Hill apartment, but dates are Apr 8-22 2026, outside the Oct 2026-Jan 2027 window."
+  },
+  {
+    "url": "https://www.listingsproject.com/listings/sun-drenched-1br-with-crazy-views-2-weeks",
+    "date_seen": "2026-09-21",
+    "status": "excluded_other",
+    "note": "Title/photos reference a Manhattan skyline view, but the apartment itself is in Clinton Hill, Brooklyn. Excluded on location."
+  },
+  {
+    "url": "https://www.listingsproject.com/listings/perfect-sublet-on-the-upper-west-side",
+    "date_seen": "2026-09-21",
+    "status": "excluded_other",
+    "note": "$3,850/month UWS apartment, but description points to taking over the lease after April 2027 - reads as a lease takeover, not a short sublet."
+  },
+  {
+    "url": "https://www.listingsproject.com/listings/1-cozy-bright-room-a-large-apartment-for-sublet-bd2bdc31-0805-40d0-87a6-39d6ab9a9cdd",
+    "date_seen": "2026-09-21",
+    "status": "excluded_other",
+    "note": "Room in Park Slope, Brooklyn, not Manhattan. Excluded on location."
   }
 ]
