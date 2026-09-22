@@ -40,5 +40,11 @@
     "date_seen": "2026-09-21",
     "status": "excluded_other",
     "note": "Room in Park Slope, Brooklyn, not Manhattan. Excluded on location."
+  },
+  {
+    "url": "https://www.listingsproject.com/listings/spacious-quiet-sanctuary-in-lower-manhattan-d286757e-b951-40fb-a2a4-87b9b784a920",
+    "date_seen": "2026-09-22",
+    "status": "excluded_other",
+    "note": "LES apartment, $4,300/month, Nov 1 2026-Apr 30 2027. Excluded on term (6 months) and budget (over $4,000/mo)."
   }
 ]
