@@ -46,5 +46,11 @@
     "date_seen": "2026-09-22",
     "status": "excluded_other",
     "note": "LES apartment, $4,300/month, Nov 1 2026-Apr 30 2027. Excluded on term (6 months) and budget (over $4,000/mo)."
+  },
+  {
+    "url": "https://newyork.craigslist.org/mnh/sub/d/new-york-sublet-available-in-chelsea/7072499381.html",
+    "date_seen": "2026-09-24",
+    "status": "borderline",
+    "note": "Chelsea 1BR, 'Oct. 1 start, no fee.' Real stable URL, dates plausibly fit, but price and end date not confirmed across repeat searches. Flagged to user as worth checking directly, not reported as a verified match."
   }
 ]
