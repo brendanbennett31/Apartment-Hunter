@@ -23,11 +23,25 @@ fresh session with no memory of prior runs, so do every step below in full each 
    - Leasebreak.com
    - StreetEasy.com — filtered to furnished / short-term rentals, Manhattan
    - Blueground.com, Kopa.com, Anyplace.com — furnished short-term, Manhattan only
+   - Sublet.com, Nestpick.com, SpareRoom.com — Manhattan/NYC sections
+   - Reddit r/NYCapartments — search for recent Manhattan sublet posts
    - Any other legitimate NYC short-term sublet source you come across
 
    Note which sources you actually managed to check. If a site blocks fetching or search
    turns up nothing usable for it, say so in the email rather than pretending it was
    checked and came back empty.
+
+   **Craigslist is a known weak point.** It has no native saved-search alerts, and every
+   RSS-bridge attempt (Open RSS, and Craigslist's own former RSS support) has failed with
+   a 503 — Craigslist actively blocks these tools, this isn't a fixable configuration
+   issue from within this agent. Don't re-attempt an RSS/scraper workaround for
+   Craigslist; just keep using search the same way as the other sources, and expect
+   weaker link confidence there than elsewhere.
+
+   **If the user has set up a StreetEasy saved-search email alert**, check Gmail for
+   those alert emails (`mcp__Gmail__search_threads`) in addition to searching StreetEasy
+   directly — those emails come with real, first-party links and don't have the
+   confidence problem search-engine summaries do.
 
 5. **For each candidate listing not already in `seen_listings.json`:**
    - Confirm it's actually in Manhattan — check the stated address/neighborhood, don't
