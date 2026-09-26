@@ -24,6 +24,8 @@ fresh session with no memory of prior runs, so do every step below in full each 
    - StreetEasy.com — filtered to furnished / short-term rentals, Manhattan
    - Blueground.com, Kopa.com, Anyplace.com — furnished short-term, Manhattan only
    - Sublet.com, Nestpick.com, SpareRoom.com — Manhattan/NYC sections
+   - SnagSublets.com — purpose-built for 1-3 month furnished NYC sublets, verified
+     listings, no broker fees; good fit for this search, added 9/26
    - Reddit r/NYCapartments — search for recent Manhattan sublet posts
    - Any other legitimate NYC short-term sublet source you come across
 
