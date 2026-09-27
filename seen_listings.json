@@ -52,5 +52,17 @@
     "date_seen": "2026-09-24",
     "status": "borderline",
     "note": "Chelsea 1BR, 'Oct. 1 start, no fee.' Real stable URL, dates plausibly fit, but price and end date not confirmed across repeat searches. Flagged to user as worth checking directly, not reported as a verified match."
+  },
+  {
+    "url": "https://snagsublets.com/post/2728230d-8788-4629-8526-681428ffae48",
+    "date_seen": "2026-09-27",
+    "status": "borderline",
+    "note": "West Village 1BR (master bedroom, en-suite, in 2BR/2BA), $4,070/month, Sep 15-Oct 15 2026. $70/mo over budget cap, term only covers first half of Oct window. Reported to user as borderline. Stable direct listing URL, consistent across 2 searches."
+  },
+  {
+    "url": "https://snagsublets.com/post/b8612bd5-7fbf-40ad-af13-e469e47e5b11",
+    "date_seen": "2026-09-27",
+    "status": "excluded_other",
+    "note": "West Village studio, $4,730/month, Sep 12 2026-Aug 31 2027. 11.5-month term, excluded as long-term, not a sublet fit."
   }
 ]
