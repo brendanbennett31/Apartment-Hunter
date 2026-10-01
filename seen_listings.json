@@ -64,5 +64,23 @@
     "date_seen": "2026-09-27",
     "status": "excluded_other",
     "note": "West Village studio, $4,730/month, Sep 12 2026-Aug 31 2027. 11.5-month term, excluded as long-term, not a sublet fit."
+  },
+  {
+    "url": "https://www.listingsproject.com/listings/peaceful-sun-drenched-east-village-alcove-studio-available-for-short-medium-term-sublet-5c6858dd-2be8-44eb-80a4-943bc581bc3d",
+    "date_seen": "2026-10-01",
+    "status": "matched",
+    "note": "East Village alcove studio, 450 sq ft, $250/night (4-night min) or $1,590/week, available Jul 18 2026-Jan 2 2027 flexible. 1-2 week total cost well under $4,000 budget. No gender restriction. Reported to user as a genuine match. Consistent across 2 searches."
+  },
+  {
+    "url": "https://www.listingsproject.com/listings/serene-chelsea-alcove-studio-clean-minimal-prime-location-available-for-flexible-short-term-sublets-1-to-2-weeks-month-c107f2ee-c86c-4ef3-9120-1881ee438b3d",
+    "date_seen": "2026-10-01",
+    "status": "excluded_other",
+    "note": "Chelsea alcove studio, $250/night, 1-2 week flexible terms, but only available June-August. Outside the Oct 2026-Jan 2027 window."
+  },
+  {
+    "url": "https://www.listingsproject.com/listings/private-sunny-clean-hamilton-heights-sublet-available-14eff2f0-dc19-4083-bd89-cbefcb1eb723",
+    "date_seen": "2026-10-01",
+    "status": "excluded_other",
+    "note": "Hamilton Heights 1BR, $2,495/month, Aug 2026-Jul 2027. 6-12 month minimum term, excluded as long-term."
   }
 ]
